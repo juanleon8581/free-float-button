@@ -1,9 +1,9 @@
 {
-  "name": "free-float-button",
+  "name": "free-float-button-js",
   "version": "0.0.1",
   "description": "Get a float button with free movement on the screen",
   "license": "MIT",
-  "repository": "juanleon8581/free-float-button",
+  "repository": "juanleon8581/free-float-button-js",
   "author": {
     "name": "ardat"
   },
