@@ -52,3 +52,5 @@ class FloatFreeButton {
     };
   }
 }
+
+module.exports = FloatFreeButton;
